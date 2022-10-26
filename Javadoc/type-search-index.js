@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"classes","l":"Address"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"utilities","l":"FileBuffered"},{"p":"classes","l":"IPAddress"},{"p":"main","l":"Main"},{"p":"classes","l":"Ottetto"},{"p":"view","l":"output"},{"p":"classes","l":"SubnetMask"},{"p":"utilities","l":"Utility"},{"p":"view","l":"View"}];updateSearchResults();
